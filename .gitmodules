@@ -1,3 +1,3 @@
-[submodule "wp-content/plugins/gutenberg-custom-block"]
-	path = wp-content/plugins/gutenberg-custom-block
-	url = https://github.com/mmarienko-access-dev/gutenberg-custom-block.git
+[submodule "wp-content/plugins/gutenberg-custom-blocks"]
+	path = wp-content/plugins/gutenberg-custom-blocks
+	url = https://github.com/mmarienko-codifi/gutenberg-custom-blocks.git
